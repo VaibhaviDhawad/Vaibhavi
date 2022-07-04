@@ -7,6 +7,8 @@ public class Calculator {
          System.out.println("Addition"+(a+b));
          
          System.out.println("subtraction"+(a-b));
+         
+       
 	}
 
 }
