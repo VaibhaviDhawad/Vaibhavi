@@ -7,6 +7,10 @@ public class Calculator {
          System.out.println("Addition"+(a+b));
          
          System.out.println("subtraction"+(a-b));
+         
+         System.out.println("/multiplication"+(a*b));
+         
+         System.out.println("Division"+(a/b));
 	}
 
 }
